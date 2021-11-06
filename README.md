@@ -1,7 +1,8 @@
 # Harbour Landscape
 
 ## Designer
-  Harris Kwok
+  Harris Kwok\
+  Yuchao
 
 ## Projects
 
