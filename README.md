@@ -25,7 +25,7 @@
 
 ### 2. Cleaning:
   - 0.4 to 1.2 CND / sqft.
-  - Chop the grass and make them clean, stop complaining from neighbors.
+  - Chop the grass and make them clean, stop complaining from the neighbors.
 
 ### 3. Garden build:
   - Design: 500 CND for a 2000 sqft lot.
