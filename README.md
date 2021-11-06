@@ -1,13 +1,13 @@
 # Harbour Landscape
 
 ## Designer
-  ### Harris Kwok
+  Harris Kwok
 
 ## Projects
 
-  ### Japanese style
+  Japanese style garden
 
 ## Contact
 
-  ### email: harborlandscape888@gmail.com
-  ### phone: 2361111111
+  email: harborlandscape888@gmail.com\
+  phone: 2361111111
