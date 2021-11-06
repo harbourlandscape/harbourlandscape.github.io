@@ -1,4 +1,4 @@
-![](resources/logo123.png?raw=true)
+<img src="resources/logo123.png" width="300" height="160">
 
 ## Designer
   Harris Kwok\
