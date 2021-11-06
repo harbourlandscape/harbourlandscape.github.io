@@ -5,7 +5,9 @@
 
 ## Projects
 
-  Japanese style garden
+  1. Asia style.
+  2. Europe style.
+  3. Mordern style.
   
 ## Pricing
 ### 1. Weekly Maintenance:
