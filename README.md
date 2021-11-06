@@ -1,15 +1,21 @@
 <img src="resources/logo123.png" width="300" height="160">
 
+---
+
 ## Designer
   Harris Kwok\
   Yuchao
+
+---
 
 ## Projects
 
   1. Asia style.
   2. Europe style.
   3. Mordern style.
-  
+
+---
+
 ## Pricing
 ### 1. Weekly Maintenance:
   - long term maintenance.
@@ -26,6 +32,7 @@
   - Build: According to your design, from 29000 CND for a normal single family, including material and labors.
   - Clean up: After build the garden, no waste can be seen, and the garden is nice and clean. Usually 900 CND.
 
+---
 
 ## Contact
 
