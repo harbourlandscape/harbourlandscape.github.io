@@ -1,4 +1,4 @@
-<img src="resources/123.png" width="300" height="195">
+<img src="resources/123.png" width="400" height="263">
 
 ---
 
