@@ -3,8 +3,8 @@
 ---
 
 ## Designer
-  Harris Kwok\
-  Yuchao
+  Hai bin\
+  Yu chao
 
 ---
 
@@ -35,8 +35,8 @@
 ---
 
 ## Contact
-
-  email: harborlandscape888@gmail.com
+  phone: 778-846-6618 (Hai bin)
+  Social Media: https://www.xiaohongshu.com/user/profile/5fd21533000000000101cad8
   
 --- 
   Thank you for your time!\
