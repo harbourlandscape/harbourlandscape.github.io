@@ -35,7 +35,7 @@
 ---
 
 ## Contact
-  phone: 778-846-6618 (Hai bin)
+  phone: 778-846-6618 (Hai bin)\
   Social Media: https://www.xiaohongshu.com/user/profile/5fd21533000000000101cad8
   
 --- 
